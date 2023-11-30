@@ -12,6 +12,7 @@
 - **Генерация изображений**: Функция `generate_image` создаёт запросы для модели DALL-E, которая генерирует изображения на основе текстовых описаний.
 - **Сохранение результатов**: Описание и ссылка на сгенерированное изображение сохраняются в файле `EXAMPLE.md`.
 
+![alt text](example.png)
 ## Установка
 Использование Google Colab [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1fCbINC7B0CuW251a4N9mQ1vrsS7ujLKJ?usp=sharing) 
 
