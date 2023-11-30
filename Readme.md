@@ -32,7 +32,7 @@ openai-env\Scripts\activate
 ```Shell
 pip install -r requirements.txt
 ```
-
+5. Указать свой OpenAI api key в '.env'
 
 ## Ответы на Вопросы
 ### Как имитировать стиль успешных постов в Instagram?
