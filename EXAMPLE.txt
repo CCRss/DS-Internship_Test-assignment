@@ -1,0 +1,531 @@
+Example 1
+
+--------------------------------------------------------------------------------
+Price: 4277000
+Area: 3400 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 2
+Preferred Area: yes
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 3-bedroom, 1-bathroom house is a steal at
+just $4,277,000! With 3400 sq ft of space spread across 2 stories, this gem is
+perfect for your family. Located on the main road in a preferred area, it offers
+easy access and convenience. The semi-furnished basement is a bonus, providing
+ample storage space. Although hot water heating and air conditioning are not
+available, the price more than makes up for it! Don't miss out on this
+incredible opportunity. Hurry, only 2 parking spots left! 🚗💨 #DreamHome #ForSale
+#HouseHunting"
+--------------------------------------------------------------------------------
+
+Example 2
+
+--------------------------------------------------------------------------------
+Price: 5229000
+Area: 7085 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 1
+Main Road: yes
+Guestroom: yes
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 2
+Preferred Area: yes
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreaming of a spacious and stylish home? Look no further! This stunning
+3-bedroom, 1-bathroom house is now available for only $5,229,000! With a
+generous area of 7,085 sq ft, this single-story gem is perfect for those seeking
+comfort and convenience. Located on the main road, it offers easy access and
+boasts a guestroom, basement, and 2 parking spaces. While it's semi-furnished,
+you have the freedom to add your personal touch. Don't miss out on this
+incredible opportunity! 💫 #DreamHome #SpaciousLiving #HomeSweetHome"
+--------------------------------------------------------------------------------
+
+Example 3
+
+--------------------------------------------------------------------------------
+Price: 5530000
+Area: 3300 sq ft
+Bedrooms: 3
+Bathrooms: 3
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-story house is a steal at just
+$5,530,000! With 3 spacious bedrooms, 3 bathrooms, and a basement, there's
+plenty of room for your family to grow. 🛏️🛁 Plus, enjoy the convenience of a
+main road location and semi-furnished interiors. 😍 Don't miss out on this
+incredible opportunity! 💫 #DreamHome #ForSale #HouseHunting"
+--------------------------------------------------------------------------------
+
+Example 4
+
+--------------------------------------------------------------------------------
+Price: 9100000
+Area: 6600 sq ft
+Bedrooms: 4
+Bathrooms: 2
+Stories: 2
+Main Road: yes
+Guestroom: yes
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: yes
+Parking: 1
+Preferred Area: yes
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 4-bedroom, 2-bathroom house is a true gem!
+With 6600 sq ft of space, 2 stories, and a guestroom, it's perfect for
+entertaining friends and family. Located on the main road in a preferred area,
+this unfurnished beauty also boasts a basement and air conditioning for ultimate
+comfort. Don't miss out on this incredible opportunity! 💫 Price: $9,100,000.
+Limited parking available. #DreamHome #LuxuryLiving #HouseHunting"
+--------------------------------------------------------------------------------
+
+Example 5
+
+--------------------------------------------------------------------------------
+Price: 5600000
+Area: 4800 sq ft
+Bedrooms: 5
+Bathrooms: 2
+Stories: 3
+Main Road: no
+Guestroom: no
+Basement: yes
+Hot Water Heating: yes
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 5-bedroom, 2-bathroom house is a true gem!
+With 4800 sq ft of space spread across 3 stories, this spacious abode is perfect
+for a growing family. 💫 Featuring a basement for extra storage, hot water
+heating for cozy winters, and an unfurnished interior ready for your personal
+touch. 💥 Don't miss out on this incredible opportunity! 💰 Price: $5,600,000. 📍
+Located in a peaceful neighborhood, away from the main road. 🚗 Parking
+available. 🌬️ Stay cool with the refreshing breeze, as air conditioning is not
+included. 🌳 Create lasting memories in this beautiful home!
+--------------------------------------------------------------------------------
+
+Example 6
+
+--------------------------------------------------------------------------------
+Price: 5740000
+Area: 5000 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 3
+Main Road: yes
+Guestroom: no
+Basement: no
+Hot Water Heating: no
+Air Conditioning: yes
+Parking: 0
+Preferred Area: no
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 3-bedroom, 1-bathroom house is a true gem!
+With 5000 sq ft of space spread across 3 stories, this spacious abode is perfect
+for your family. 💫 Located on the main road, you'll enjoy easy access to all
+amenities. 🛋️ Semi-furnished with air conditioning, this home offers comfort and
+style. 💦 Say goodbye to cold showers with hot water heating! 🚗 Although parking
+is not available, the incredible features of this house make up for it. 💰 Priced
+at just $5,740,000, this is an opportunity you don't want to miss! 📲 DM us now
+to
+--------------------------------------------------------------------------------
+
+Example 7
+
+--------------------------------------------------------------------------------
+Price: 4410000
+Area: 4900 sq ft
+Bedrooms: 2
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-bedroom, 1-bathroom house is waiting for
+you! With 4900 sq ft of space, 2 stories, and a basement, this semi-furnished
+gem is perfect for your family. Located on the main road, it offers easy access
+and convenience. Don't miss out on this incredible opportunity! 💫 Price:
+$4,410,000. Book your viewing now! 📞 #DreamHome #HouseForSale #LuxuryLiving"
+--------------------------------------------------------------------------------
+
+Example 8
+
+--------------------------------------------------------------------------------
+Price: 2450000
+Area: 3500 sq ft
+Bedrooms: 2
+Bathrooms: 1
+Stories: 1
+Main Road: yes
+Guestroom: yes
+Basement: no
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreamy and spacious 2-bedroom house with 3500 sq ft of pure luxury! 💫 This
+stunning one-story home is located on the main road, ensuring easy access and
+convenience. ✨ With a guestroom for hosting friends and family, this house is
+perfect for entertaining. 🌟 Although it doesn't have a basement, the unfurnished
+interior allows you to create your own personalized oasis. 💕 While hot water
+heating and air conditioning are not included, the price of $2,450,000 makes
+this house an incredible investment opportunity! 💰 Don't miss out on this gem! 🏠
+#dreamhome #luxuryliving #investmentopportunity"
+--------------------------------------------------------------------------------
+
+Example 9
+
+--------------------------------------------------------------------------------
+Price: 3003000
+Area: 8050 sq ft
+Bedrooms: 2
+Bathrooms: 1
+Stories: 1
+Main Road: yes
+Guestroom: no
+Basement: no
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreamy and spacious 2-bedroom house with 8050 sq ft of pure luxury! 💫 This
+stunning single-story home is perfect for those seeking comfort and style.
+Located on the main road, it offers easy access to all amenities. 💥 With a price
+of just $3,003,000, this unfurnished gem won't last long! Don't miss out on the
+opportunity to make it your own. 🌟 #dreamhome #luxuryliving #spaciousliving
+#houseforsale"
+--------------------------------------------------------------------------------
+
+Example 10
+
+--------------------------------------------------------------------------------
+Price: 4795000
+Area: 7000 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-story house boasts 7000 sq ft of pure
+luxury! With 3 spacious bedrooms, 1 bathroom, and a basement for extra storage,
+this unfurnished gem is perfect for creating your own personal oasis. Located on
+the main road, convenience is at your doorstep. Although parking is limited, the
+incredible price of $4,795,000 makes it worth it! Don't miss out on this amazing
+opportunity to turn this house into your dream home. 💫 #DreamHome #LuxuryLiving
+#UnfurnishedGem"
+--------------------------------------------------------------------------------
+
+Example 11
+
+--------------------------------------------------------------------------------
+Price: 2275000
+Area: 3970 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 3-bedroom, 1-bathroom house is a true gem!
+With 3970 sq ft of space, 2 stories, and a basement, it's perfect for your
+growing family. Located on the main road, convenience is at your doorstep.
+Although unfurnished, the possibilities are endless to make it your own. Don't
+miss out on this incredible opportunity! 💫 Price: $2,275,000. Limited parking
+available. DM for more details. #DreamHome #ForSale #UnfurnishedLiving"
+--------------------------------------------------------------------------------
+
+Example 12
+
+--------------------------------------------------------------------------------
+Price: 3010000
+Area: 3750 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: no
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-story house is up for grabs! With 3750 sq
+ft of space, 3 bedrooms, and 1 bathroom, it's perfect for a growing family.
+Located on the main road, convenience is at your doorstep. Although it doesn't
+have a guestroom or basement, the unfurnished interior gives you the freedom to
+design it just the way you like. Don't miss out on this amazing opportunity! 💫
+Price: $3,010,000. Contact us now for more details! 📞 #DreamHome #ForSale
+#SpaciousLiving"
+--------------------------------------------------------------------------------
+
+Example 13
+
+--------------------------------------------------------------------------------
+Price: 3773000
+Area: 6930 sq ft
+Bedrooms: 4
+Bathrooms: 1
+Stories: 2
+Main Road: no
+Guestroom: no
+Basement: no
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 1
+Preferred Area: no
+Furnishing Status: furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreamy and spacious 4-bedroom, 1-bathroom house with 6930 sq ft of pure
+luxury! ✨✨ This stunning 2-story home is fully furnished and ready for you to
+move in. 💫💫 With a price of just $3,773,000, it's an absolute steal! 😱😱 No
+worries about parking with 1 parking spot included. 🚗🚗 Don't miss out on this
+incredible opportunity! 💥💥 #dreamhome #luxuryliving #forsale"
+--------------------------------------------------------------------------------
+
+Example 14
+
+--------------------------------------------------------------------------------
+Price: 5565000
+Area: 5400 sq ft
+Bedrooms: 5
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: yes
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: yes
+Parking: 0
+Preferred Area: yes
+Furnishing Status: furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! ✨ This stunning 5-bedroom, 2-story house is a true gem!
+With 5400 sq ft of luxurious living space, this fully furnished beauty is
+perfect for those who appreciate style and comfort. Enjoy the convenience of a
+guestroom, basement, and air conditioning throughout. Located on the main road
+in a preferred area, this house offers easy access to all amenities. Priced at
+just $5,565,000, this is your chance to own the home of your dreams! Don't miss
+out, book your viewing today! 🌟 #DreamHome #LuxuryLiving #HouseForSale"
+--------------------------------------------------------------------------------
+
+Example 15
+
+--------------------------------------------------------------------------------
+Price: 3850000
+Area: 7152 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: no
+Hot Water Heating: no
+Air Conditioning: yes
+Parking: 0
+Preferred Area: no
+Furnishing Status: furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreamy and Luxurious Home Alert! 🌟 This stunning 2-story house boasts 7152 sq
+ft of pure elegance and comfort. With 3 spacious bedrooms and 1 bathroom, this
+fully furnished gem is perfect for those seeking a stylish and cozy abode. Enjoy
+the convenience of air conditioning throughout the house, ensuring year-round
+comfort. Located on the main road, accessibility is a breeze. Don't miss out on
+this incredible opportunity! 💫 Price: $3,850,000. Book your viewing now! 📞
+#DreamHome #LuxuryLiving #StylishAbode"
+--------------------------------------------------------------------------------
+
+Example 16
+
+--------------------------------------------------------------------------------
+Price: 3675000
+Area: 3630 sq ft
+Bedrooms: 2
+Bathrooms: 1
+Stories: 1
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dreamy and spacious! This stunning fully furnished 2-bedroom, 1-bathroom
+house is a steal at just $3,675,000! With a generous 3,630 sq ft area and a
+convenient single-story layout, this home is perfect for those seeking comfort
+and style. Located on the main road, this gem also boasts a basement for extra
+storage. While it may not have hot water heating or air conditioning, the price
+more than makes up for it! Don't miss out on this incredible opportunity. DM us
+for more details! 🌟 #DreamHome #SpaciousLiving #HouseForSale"
+--------------------------------------------------------------------------------
+
+Example 17
+
+--------------------------------------------------------------------------------
+Price: 8750000
+Area: 4320 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: yes
+Air Conditioning: no
+Parking: 2
+Preferred Area: no
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-story house is a steal at just
+$8,750,000! With 4320 sq ft of space, 3 bedrooms, and 1 bathroom, it's perfect
+for a growing family. Plus, it comes with a basement for extra storage and hot
+water heating for those cozy winter nights. 🌡️ Don't miss out on this gem
+located on the main road, offering easy access and convenience. 🚗🛣️ Hurry, only
+2 parking spots available! 💨 Semi-furnished and ready for you to make it your
+own. 💫 #DreamHome #ForSale #HouseHunting"
+--------------------------------------------------------------------------------
+
+Example 18
+
+--------------------------------------------------------------------------------
+Price: 8400000
+Area: 5500 sq ft
+Bedrooms: 4
+Bathrooms: 2
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: yes
+Parking: 1
+Preferred Area: yes
+Furnishing Status: semi-furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 4-bedroom, 2-bathroom house is a true gem!
+With 5500 sq ft of space, 2 stories, and a basement, it's perfect for your
+growing family. Enjoy the convenience of a main road location, air conditioning,
+and semi-furnished interiors. 🌬️💎 Don't miss out on this incredible opportunity!
+Priced at just $8,400,000, it won't last long. 🏷️🔥 Book your viewing now and
+make this your forever home! 🏠💕 #DreamHome #ForSale #LuxuryLiving"
+--------------------------------------------------------------------------------
+
+Example 19
+
+--------------------------------------------------------------------------------
+Price: 3640000
+Area: 2850 sq ft
+Bedrooms: 3
+Bathrooms: 2
+Stories: 2
+Main Road: no
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: yes
+Furnishing Status: unfurnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Your dream home awaits! This stunning 2-story house boasts 3 bedrooms, 2
+bathrooms, and a spacious 2850 sq ft area. With a basement for extra storage and
+a preferred location, this unfurnished gem is perfect for customizing to your
+taste. Don't miss out on this incredible opportunity at just $3,640,000! 💫
+#DreamHome #HouseForSale #UnfurnishedBeauty"
+--------------------------------------------------------------------------------
+
+Example 20
+
+--------------------------------------------------------------------------------
+Price: 4550000
+Area: 2550 sq ft
+Bedrooms: 3
+Bathrooms: 1
+Stories: 2
+Main Road: yes
+Guestroom: no
+Basement: yes
+Hot Water Heating: no
+Air Conditioning: no
+Parking: 0
+Preferred Area: no
+Furnishing Status: furnished
+--------------------------------------------------------------------------------
+Generated Description:
+"🏡 Dream Home Alert! 🌟 This stunning 2-story house is up for grabs! With 3
+spacious bedrooms, 1 luxurious bathroom, and a basement for extra storage, this
+fully furnished gem is perfect for your family! Located on the main road,
+convenience is at your doorstep. Although parking is limited, the incredible
+price of $4,550,000 makes it worth it! Don't miss out on this amazing
+opportunity! 💫 #DreamHome #LuxuryLiving #HouseForSale"
+--------------------------------------------------------------------------------
+
