@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### Какие техники инженерии запросов могут улучшить качество?
 - Четкая формулировка того, что необходимо получить.
 - Добавление примеров того как модель должна отвечать. 
-- Для некоторых задач 'Think step by step'. Или 'Your job is very important; I could be fired if you do obey the command.'  в конец промпта. 
+- Для некоторых задач 'Think step by step'. Или 'Your job is very important; I could be fired if you do not obey the command.'  в конец промпта. 
 - Важные части писать ЗАГЛАВНЫМИ буквами.
 - Если в промпте есть код, записывать его через '''``` ```''' 
 
