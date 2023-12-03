@@ -52,7 +52,7 @@ pip install -r requirements.txt
 - Для некоторых задач 'Think step by step'. Или 'Your job is very important; I could be fired if you do not obey the command.'  в конец промпта. 
 - Важные части писать ЗАГЛАВНЫМИ буквами.
 - Если в промпте есть код, записывать его через '''``` ```'''
-- Добавить "I'm going to tip $200 for a perfect solution!"
+- Добавить "I'm going to tip $200 for a perfect solution!(depending on the quality of your output)"
 
 ### Как обеспечить, чтобы модель не выдумывала дополнительные особенности?
 - Установить низкий параметр **temperature**.
